@@ -7,7 +7,14 @@
 * Free Pick Purchases (Doesn't Deduct Pick Points)
 * Instant Furnace (Instantly Smelts Blocks Down)
 
+
+
 ### Coming Soon:
-* Spoof IAP (Manipulates In-App Purchases)
+* Instant Boss (Instantly Kills The Bosses)
+* Free Biomes (Spoofs Price to 0 & Required Block to Dirt)
+* Hidden Biomes (Sun, ChronosLair,The Void)
+* Free Pickaxe (Free Pickaxes in Crafting)
+* Buffed Artifact Trash EXP
+* Buffed Max Level for Artifact (1000 => 1000000)
 
 #### NOTE: This trainer will be discontinued when FiveAmp contacts me personally!
