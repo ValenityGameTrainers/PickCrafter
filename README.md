@@ -21,6 +21,9 @@
 * Removed Cheat Detection
 * Free Furnace (Skip block requirement)
 * No Chest Wait (Skips the wait for chests)
+* No Ability Cooldown (Buggy) (Works, but still shows a timer, simply just ignore and click like normal)
+
+
 
 #### Notes: 
 * This patch will be discontinued when FiveAmp contacts me personally!
