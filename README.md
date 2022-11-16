@@ -11,6 +11,7 @@
 
 ### Coming Soon:
 * Instant Boss (Instantly Kills The Bosses)
+* Instant Break (Instantly Breaks Blocks)
 * Free Biomes (Spoofs Price to 0 & Required Block to Dirt)
 * Hidden Biomes (Sun, ChronosLair,The Void)
 * Free Pickaxe (Free Pickaxes in Crafting)
