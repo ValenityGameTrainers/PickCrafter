@@ -17,4 +17,4 @@
 * Buffed Artifact Trash EXP
 * Buffed Max Level for Artifact (1000 => 1000000)
 
-#### NOTE: This trainer will be discontinued when FiveAmp contacts me personally!
+#### NOTE: This patch will be discontinued when FiveAmp contacts me personally!
