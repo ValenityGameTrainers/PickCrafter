@@ -21,5 +21,5 @@
 * Free Furnace (Skip Block Requirement)
 
 #### Notes: 
-> This patch will be discontinued when FiveAmp contacts me personally!
-> This patch will never attempt to crack in-app purchases or DLC, please support the creators and actually purchase the content.
+* This patch will be discontinued when FiveAmp contacts me personally!
+* This patch will never attempt to crack in-app purchases or DLC, please support the creators and actually purchase the content.
