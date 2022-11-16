@@ -16,5 +16,10 @@
 * Free Pickaxe (Free Pickaxes in Crafting)
 * Buffed Artifact Trash EXP
 * Buffed Max Level for Artifact (1000 => 1000000)
+* Free Prestige (Prestige from the first biome for FREE!)
+* Removed Cheat Detection
+* Free Furnace (Skip Block Requirement)
 
-#### NOTE: This patch will be discontinued when FiveAmp contacts me personally!
+#### Notes: 
+> This patch will be discontinued when FiveAmp contacts me personally!
+> This patch will never attempt to crack in-app purchases or DLC, please support the creators and actually purchase the content.
