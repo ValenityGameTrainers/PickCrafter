@@ -6,10 +6,6 @@
 * Free Runic Dust Purchases (Chest, Artifact Slots, ETC)
 * Free Pick Purchases (Doesn't deduct pick points)
 * Instant Furnace (Instantly smelts blocks down)
-
-
-
-### Coming Soon:
 * Instant Boss (Instantly kills The bosses)
 * Instant Break (Instantly breaks blocks)
 * Free Biomes (Spoofs price to 0 & required block to dirt)
@@ -22,6 +18,10 @@
 * Free Furnace (Skip block requirement)
 * No Chest Wait (Skips the wait for chests)
 * No Ability Cooldown (Buggy) (Works, but still shows a timer, simply just ignore and click like normal)
+
+
+### Coming Soon:
+Nothing... yet!
 
 
 
