@@ -1,4 +1,4 @@
-### Some Features May Be Missing!
+## This patch has been discontinued out of respect for the FiveAmp Development Team
 
 # PickPatcher (PickCrafter Patcher)
 > Enhance your gameplay with PickPatcher!
