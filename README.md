@@ -25,3 +25,5 @@ Nothing... yet!
 #### Notes: 
 * This patch will be discontinued when FiveAmp contacts me personally!
 * This patch will never attempt to crack in-app purchases or DLC, please support the creators and actually purchase the content.
+
+[![Github All Releases](https://img.shields.io/github/downloads/ValenityGameTrainers/PickCrafter/total.svg)]()
